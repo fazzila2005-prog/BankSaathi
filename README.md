@@ -29,9 +29,9 @@ Aligned model: `model_01m64mchcw0jz89d`
 
 ## Demo
 
-![BankSaathi answering a card-fraud question](screenshot.png)
+![BankSaathi answering a card-fraud question](Screenshot%202026-10-30%20020457.png)
 
-![BankSaathi answering an Ombudsman question](screenshot2.png)
+![BankSaathi answering an Ombudsman question](Screenshot%202026-10-30%20020828.png)
 
 ## Results
 
