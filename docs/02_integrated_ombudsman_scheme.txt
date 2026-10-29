@@ -1,0 +1,68 @@
+# The Reserve Bank – Integrated Ombudsman Scheme, 2021
+
+Source: Reserve Bank of India, "The Reserve Bank – Integrated Ombudsman Scheme, 2021" (RB-IOS), effective 12 November 2021, as summarised in the "Salient Features" notice that regulated entities must display.
+
+## What it is
+The Integrated Ombudsman Scheme is a free, RBI-run system for resolving customer complaints against banks and other RBI-regulated entities (such as non-bank financial companies, payment system participants and credit information companies). It replaced three earlier schemes (the Banking Ombudsman Scheme, the Ombudsman Scheme for NBFCs and the Ombudsman Scheme for Digital Transactions) with a single "One Nation One Ombudsman" approach. A customer no longer needs to work out which ombudsman office has jurisdiction.
+
+## Ground for complaint
+A customer can complain about any act or omission of a regulated entity that results in "deficiency in service". The complaint can be filed personally or through an authorised representative (other than an advocate, unless the advocate is the aggrieved person).
+
+## Step 1: complain to the bank first
+Before approaching the Ombudsman, the customer must first make a written complaint to the bank (other modes are acceptable if the customer can prove the complaint was made).
+
+## Step 2: when you can go to the Ombudsman
+A customer can file a complaint with the RBI Ombudsman if:
+- the bank has not replied within **30 days** of receiving the complaint, or
+- the bank has rejected the complaint fully or partly, or the customer is not satisfied with the reply.
+
+Time limits for filing with the Ombudsman:
+- If the bank did not reply, the complaint must be filed within **one year and 30 days** from the date of the original complaint to the bank.
+- If the bank replied and the customer is dissatisfied, the complaint must be filed within **one year** of receiving the bank's reply.
+
+## How to file a complaint with the RBI Ombudsman
+- Online through the RBI Complaint Management System portal: **https://cms.rbi.org.in**
+- By email: **crpc@rbi.org.in**
+- By post to the **Centralised Receipt and Processing Centre (CRPC), Reserve Bank of India, 4th Floor, Sector 17, Chandigarh – 160017**
+- The RBI contact centre on toll-free number **14448** (9:30 am to 5:15 pm) gives information and helps customers file complaints.
+
+## Complaints that will not be considered (non-maintainable)
+The Ombudsman will not take up a complaint about:
+- a commercial judgment or commercial decision of the bank;
+- a dispute between a vendor and the bank about an outsourcing contract;
+- a grievance not first addressed to the bank;
+- general grievances against the bank's management or executives;
+- action taken by the bank under the orders of a statutory or law-enforcing authority;
+- a service not within the RBI's regulatory purview;
+- a dispute between regulated entities;
+- an employee–employer dispute of the bank.
+
+A complaint will also not be considered if:
+- the same matter is already pending, or has been decided, before an Ombudsman, court, tribunal, arbitrator or any other forum;
+- it is abusive, frivolous or vexatious;
+- it is filed after the limitation period under the Limitation Act, 1963;
+- it does not contain the complete information required by the scheme;
+- it is filed by someone other than the complainant or an authorised representative.
+
+## How the Ombudsman handles the complaint
+- The bank must file its written reply and documents within **15 days** of receiving the complaint from the Ombudsman (the Ombudsman may give more time on the bank's written request).
+- If the bank fails to reply in time, the Ombudsman may decide on the basis of the evidence on record, and the bank cannot appeal against that.
+- The Ombudsman tries to settle the complaint by facilitation, conciliation or mediation. If that fails, the Ombudsman can pass an **award**.
+
+## Compensation
+- There is **no limit** on the disputed amount for which a complaint can be filed.
+- For consequential loss, the Ombudsman can award compensation of up to **₹20 lakh**.
+- For loss of the complainant's time, expenses incurred, harassment or mental anguish, the Ombudsman can award up to **₹1 lakh**.
+
+## Accepting the award
+An award lapses unless the complainant accepts it in writing, in full and final settlement, within **30 days** of receiving it.
+
+## Appeal
+- If the customer is unhappy with an award or with the rejection of the complaint, they can appeal to the **Appellate Authority**, the Executive Director in charge of the RBI department that administers the scheme.
+- The appeal must be filed within **30 days** of receiving the award or rejection. The Appellate Authority may allow a further period of up to **30 days** if there is sufficient cause for the delay.
+
+## Other remedies
+The scheme does not take away the customer's right to approach a court, consumer forum or other authority at any stage.
+
+## Principal Nodal Officer
+Every bank must appoint a Principal Nodal Officer, normally of the rank of General Manager or equivalent, who represents the bank before the Ombudsman and is responsible for providing information on complaints. Banks must display the Nodal Officer's contact details and the salient features of the scheme in their branches and on their websites.

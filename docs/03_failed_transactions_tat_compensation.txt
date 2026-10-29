@@ -1,0 +1,41 @@
+# Failed Transactions: Turnaround Time (TAT) and Automatic Compensation
+
+Source: Reserve Bank of India circular RBI/2019-20/67, DPSS.CO.PD No.629/02.01.014/2019-20, dated 20 September 2019, effective 15 October 2019, "Harmonisation of Turn Around Time (TAT) and customer compensation for failed transactions using authorised Payment Systems".
+
+## What this rule is about
+Sometimes money is debited from your account but the transaction does not complete: an ATM does not give cash, a UPI payment fails, a card payment at a shop does not go through. RBI sets a maximum time (the turnaround time, or TAT) within which the money must be reversed or credited. If the bank or payment system operator misses that deadline, it must pay the customer a fixed compensation for every day of delay.
+
+## Key definitions
+- **Failed transaction:** a transaction that was not fully completed for any reason not attributable to the customer, such as a communication link failure, an ATM running out of cash, a session time-out, or a credit not reaching the beneficiary because of incomplete or incorrect information.
+- **T** is the day of the transaction. **R** is the day on which the reversal is concluded and the funds are received by the issuer or originator.
+- The TAT is the outer limit for resolution. Banks are expected to resolve failed transactions faster where possible.
+- The rules apply to domestic transactions (where both the sender and the beneficiary are in India).
+
+## Compensation is automatic
+The customer does **not** have to file a complaint to get the compensation. The bank must credit it to the customer's account automatically as soon as the TAT is crossed. If the customer does not receive the reversal or compensation within the TAT, they can complain under the RBI Integrated Ombudsman Scheme, 2021.
+
+## TAT and compensation by transaction type
+
+| Transaction | What went wrong | Deadline for reversal / credit | Compensation if deadline missed |
+|---|---|---|---|
+| ATM, including micro-ATM | Account debited but cash not dispensed | Auto-reversal within T + 5 days | ₹100 per day of delay beyond T + 5, to the account holder |
+| Card-to-card transfer | Card account debited but beneficiary card not credited | Reversal within T + 1 day if credit not done | ₹100 per day of delay beyond T + 1 |
+| Card at Point of Sale (PoS), including cash at PoS | Account debited but no confirmation received by the merchant (charge slip not generated) | Auto-reversal within T + 5 days | ₹100 per day of delay beyond T + 5 |
+| IMPS | Account debited but beneficiary account not credited | Beneficiary bank to reverse by T + 1 day if it cannot credit | ₹100 per day of delay beyond T + 1 |
+| UPI fund transfer | Account debited but beneficiary account not credited | Beneficiary bank to reverse by T + 1 day if it cannot credit | ₹100 per day of delay beyond T + 1 |
+| UPI payment to a merchant | Account debited but no confirmation received by the merchant | Auto-reversal within T + 5 days | ₹100 per day of delay beyond T + 5 |
+| Aadhaar Enabled Payment System (AePS) | Account debited but no confirmation received at the merchant location | Acquirer to initiate "Credit Adjustment" within T + 5 days | ₹100 per day of delay beyond T + 5 |
+| Aadhaar Payment Bridge System (APBS) | Delay in crediting the beneficiary's account | Beneficiary bank to reverse by T + 1 day | ₹100 per day of delay beyond T + 1 |
+| NACH | Delay in crediting the beneficiary's account or reversing the amount | Beneficiary bank to reverse the uncredited amount by T + 1 day | ₹100 per day of delay beyond T + 1 |
+| NACH | Account debited even after the customer revoked the debit mandate | Customer's bank is responsible; resolve by T + 1 day | Customer's bank bears responsibility for the wrongful debit |
+| Prepaid Payment Instrument (PPI) on-us transaction | PPI debited but no confirmation received at the merchant | Reversal to the remitter's account by T + 1 day | ₹100 per day of delay beyond T + 1 |
+| PPI off-us transaction (over UPI, card networks, IMPS etc.) | Any failure | Rules of the underlying payment system apply | Rules of the underlying payment system apply |
+
+## Worked examples
+- **ATM:** You withdraw ₹5,000 on Monday (T), your account is debited, but no cash comes out. The bank must reverse the money by T + 5 days. If the reversal comes 3 days after that deadline, the bank must also pay you ₹300 (₹100 x 3 days) automatically.
+- **UPI transfer:** You send money to a friend by UPI, your account is debited but your friend never receives it. The beneficiary bank must reverse it by T + 1 day, and pay ₹100 for every extra day of delay.
+
+## What customers should do
+- Note the transaction reference number (UTR / RRN) and the date and time.
+- Wait for the auto-reversal within the TAT; most failures reverse automatically.
+- If the money is not back within the TAT, complain to your bank. If the bank does not resolve it within 30 days, complain to the RBI Ombudsman at https://cms.rbi.org.in.

@@ -1,0 +1,28 @@
+# RBI Charter of Customer Rights
+
+Source: Reserve Bank of India press release "RBI releases Charter of Customer Rights", 3 December 2014.
+
+## What it is
+The Charter of Customer Rights sets out five broad, overarching principles for protecting bank customers. RBI asked all scheduled commercial banks, regional rural banks and urban co-operative banks to frame a Board-approved customer rights policy based on these five rights, with a mechanism to monitor and oversee that the bank follows it. The Indian Banks' Association (IBA) and the Banking Codes and Standards Board of India (BCSBI) were asked to prepare a Model Customer Rights Policy, and RBI monitors banks' adherence.
+
+## The five rights
+
+### 1. Right to Fair Treatment
+Both the customer and the bank have a right to be treated with courtesy. A customer should not be unfairly discriminated against on grounds such as gender, age, religion, caste or physical ability when the bank offers and delivers financial products.
+
+### 2. Right to Transparency, Fair and Honest Dealing
+The bank should make every effort to ensure that the contracts or agreements it frames are transparent, easily understood by and well communicated to the common person. The product's price, the associated risks, the terms and conditions that govern its use over its life cycle, and the responsibilities of the customer and the bank should be clearly disclosed. The customer should not be subject to unfair business or marketing practices, coercive contractual terms or misleading representations.
+
+### 3. Right to Suitability
+The products offered should be appropriate to the needs of the customer and based on an assessment of the customer's financial circumstances and understanding.
+
+### 4. Right to Privacy
+Customers' personal information should be kept confidential unless they have offered specific consent to the bank or the information is required to be provided under the law. Customers have the right to protection from all kinds of communications, electronic or otherwise, which infringe upon their privacy.
+
+### 5. Right to Grievance Redress and Compensation
+The customer has a right to hold the bank accountable for the products offered and to have a clear and easy way to have valid grievances redressed. The bank should also facilitate the redress of grievances stemming from its sale of third-party products. The bank should communicate its policy for compensating mistakes, lapses in conduct, and non-performance or delays in performance, whether caused by the bank or otherwise. The policy should lay down the rights of the customer when such events occur.
+
+## How the five rights connect to other RBI rules
+- The **Right to Grievance Redress and Compensation** is put into practice through each bank's internal grievance redress system and, if that fails, the **RBI Integrated Ombudsman Scheme, 2021**.
+- Compensation for failed digital transactions is governed by the **Harmonisation of TAT and customer compensation** circular (₹100 per day of delay).
+- Protection against loss from unauthorised electronic transactions is governed by the **limited liability** circular of July 2017 (zero liability if a third-party breach is reported within 3 working days).

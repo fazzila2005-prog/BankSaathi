@@ -1,0 +1,47 @@
+# Customer Liability in Unauthorised Electronic Banking Transactions (RBI Rules)
+
+Source: Reserve Bank of India circular RBI/2017-18/15, DBR.No.Leg.BC.78/09.07.005/2017-18, dated 6 July 2017, "Customer Protection – Limiting Liability of Customers in Unauthorised Electronic Banking Transactions". Applies to all scheduled commercial banks (including regional rural banks), small finance banks and payments banks.
+
+## What this rule is about
+When money leaves a customer's account through an electronic transaction that the customer did not authorise (for example a card, net banking, mobile banking or UPI fraud), this RBI framework decides how much of the loss the customer must bear and how much the bank must bear. The key factors are who was at fault and how quickly the customer reported the transaction to the bank.
+
+## Zero liability for the customer
+A customer has zero liability (bears no loss) in two situations:
+
+1. **Contributory fraud, negligence or deficiency on the part of the bank.** If the bank itself was at fault, the customer bears no loss, whether or not the customer has reported the transaction.
+2. **Third-party breach, reported within 3 working days.** If the fault lies neither with the bank nor with the customer but somewhere else in the system (a third-party breach), and the customer notifies the bank within three working days of receiving the bank's communication about the transaction, the customer bears no loss.
+
+## Limited liability: third-party breach reported in 4 to 7 working days
+If the breach was by a third party (neither the bank nor the customer was at fault) and the customer reports it within four to seven working days of receiving the bank's communication, the customer's liability is the transaction value or the amount in the table below, whichever is lower.
+
+| Type of account | Maximum customer liability |
+|---|---|
+| Basic Savings Bank Deposit (BSBD) accounts | ₹5,000 |
+| All other savings bank accounts; pre-paid payment instruments and gift cards; current, cash credit and overdraft accounts of MSMEs; current, cash credit and overdraft accounts of individuals with annual average balance or limit up to ₹25 lakh; credit cards with limit up to ₹5 lakh | ₹10,000 |
+| All other current, cash credit and overdraft accounts; credit cards with limit above ₹5 lakh | ₹25,000 |
+
+## Reported after 7 working days
+If a third-party breach is reported more than seven working days after the bank's communication, the customer's liability is decided according to the bank's own Board-approved customer protection policy.
+
+## When the customer was negligent
+If the loss happened because of the customer's own negligence, for example sharing payment credentials such as a PIN, password or OTP, the customer bears the entire loss until the moment the unauthorised transaction is reported to the bank. Any loss that occurs after the customer has reported it is borne by the bank. A bank may, at its discretion, waive the customer's liability even in cases of customer negligence.
+
+## How fast the bank must act
+- **Shadow reversal within 10 working days:** Once the customer notifies the bank, the bank must credit (shadow reverse) the disputed amount to the customer's account within 10 working days. The bank must do this without waiting for any insurance claim to be settled.
+- **Value dating:** The credit must be value-dated to the date of the unauthorised transaction, so the customer does not lose interest.
+- **Final resolution within 90 days:** The complaint must be resolved, and the customer's liability (if any) established, within the time set in the bank's policy and in any case no later than 90 days from receipt of the complaint. If the bank cannot resolve it within 90 days, the customer must be compensated as set out in the circular.
+- In the case of a debit card or bank account, the customer must not suffer loss of interest; in the case of a credit card, the customer must not bear any additional burden of interest.
+- **Burden of proof:** The burden of proving that the customer is liable for an unauthorised electronic transaction lies on the bank, not on the customer.
+
+## What banks must provide
+- Customers must register for SMS alerts, and banks must send SMS alerts (and email alerts where an email is registered) for electronic transactions.
+- Banks must offer 24x7 channels to report unauthorised transactions, such as a website, phone banking, SMS, email, IVR, a toll-free helpline and reporting at the home branch.
+- The reply to the customer's alert should include a direct link or option to report an unauthorised transaction.
+- Banks must immediately acknowledge the customer's complaint with a registered complaint number, and the time and date of the complaint.
+- Banks must have a Board-approved policy on customer protection, report these cases to their Board and have them reviewed by internal auditors.
+
+## Practical advice for customers
+- Report any unauthorised transaction to your bank immediately. Reporting within 3 working days protects you fully in a third-party breach.
+- Never share your PIN, password, CVV or OTP with anyone, including people claiming to be bank staff. Sharing them counts as negligence and you may bear the loss.
+- Keep your mobile number registered with the bank so you receive SMS alerts.
+- If the bank does not respond or you are unhappy with its decision, you can complain to the RBI Ombudsman (see the Integrated Ombudsman Scheme document).

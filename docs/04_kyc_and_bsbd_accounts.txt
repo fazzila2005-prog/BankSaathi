@@ -1,0 +1,62 @@
+# KYC (Know Your Customer) and Basic Savings Bank Deposit (BSBD) Accounts
+
+Sources: Reserve Bank of India Master Direction on Know Your Customer (KYC), 2016, as amended, and the RBI (Commercial Banks – Know Your Customer) Directions, 2025; RBI amendment directions on Basic Savings Bank Deposit Accounts under the Responsible Business Conduct framework (effective 1 April 2026, following a draft issued on 1 October 2025).
+
+## Part A: KYC
+
+### What KYC is
+KYC is the process banks use to verify a customer's identity and address. It is required under anti-money-laundering rules when opening an account and must be updated periodically afterwards.
+
+### Officially Valid Documents (OVDs)
+The documents accepted as proof of identity and address include the passport, driving licence, voter's identity card, proof of possession of Aadhaar number, and the job card issued by NREGA (signed by a State Government officer). The Permanent Account Number (PAN), or Form 60 where the customer does not have a PAN, is also required. If an identity document does not show the current address, another document showing the address is needed. A recent photograph is also required.
+
+### Risk categories
+Banks follow a risk-based approach and classify every customer as low, medium or high risk, based on factors such as the customer's identity, social and financial status, nature of business activity and location. Banks review this classification periodically. Banks do not disclose the risk category to the customer.
+
+### How often KYC must be updated (periodic updation)
+- **High-risk customers:** at least once every 2 years
+- **Medium-risk customers:** at least once every 8 years
+- **Low-risk customers:** at least once every 10 years
+
+The period is counted from the date of account opening or the date of the last KYC updation.
+
+### Updating KYC when nothing has changed
+If there is no change in a customer's KYC information, a **self-declaration** to that effect is enough. It can be given through the customer's registered email, registered mobile number, ATM, digital channels such as internet or mobile banking, a letter, or at the branch. The customer does not need to visit the branch or submit fresh documents.
+
+If only the address has changed, the customer can submit a self-declaration of the new address through the same channels, and the bank verifies the declared address within two months. (RBI press release, 5 January 2023.)
+
+### Fresh KYC
+Where fresh KYC documents are needed, the customer can either visit a branch or complete the process remotely through the Video based Customer Identification Process (V-CIP), if the bank offers it.
+
+### Reminders before KYC falls due
+Banks must send customers advance notices before their KYC updation is due, including at least one notice by letter, and further reminders if the KYC is not updated. These messages should explain in simple language how to update KYC, whom to contact for help, and the consequences of not updating it. RBI has also allowed authorised Business Correspondents (banking agents) to help customers in underserved areas submit KYC self-declarations, while the bank remains responsible for the updation.
+
+### Practical advice
+- Banks never ask for KYC updation through links sent by SMS or WhatsApp from unknown numbers. Fake "KYC update" messages are a common fraud. Update KYC only through your bank's official app, website or branch.
+- Never share OTPs, passwords or PINs as part of a KYC request.
+
+## Part B: Basic Savings Bank Deposit (BSBD) accounts
+
+### What a BSBD account is
+A BSBD account is a basic, "zero balance" savings account that every bank must offer. It is meant to give everyone access to banking without having to maintain a minimum balance.
+
+### Features under the updated rules (effective 1 April 2026)
+- **No minimum balance** requirement.
+- **Free cash deposits**, with no limit on the number of deposits through any channel.
+- A **free ATM card or ATM-cum-debit card** with no annual charges.
+- A **cheque book** with at least 25 leaves a year.
+- **Internet banking and mobile banking.**
+- A free **passbook or monthly statement** of account.
+- **At least four free withdrawals a month**, including ATM withdrawals and transfers.
+- **Digital payments** such as UPI, NEFT, RTGS, IMPS and PoS card transactions **do not count** towards the four-withdrawal limit.
+- Banks cannot force a customer to take an ATM card, cheque book or digital banking; these are provided on request.
+- Any additional facilities a bank offers must be transparent, non-discriminatory and must not come with a minimum balance condition.
+
+### Rules on holding a BSBD account
+- A customer can hold **only one BSBD account across all banks**. Before opening one, the bank takes a declaration from the customer that they do not hold any other BSBD account.
+- Customers can ask the bank to **convert an existing savings account into a BSBD account**. The bank must process the request within **7 days**, and must offer this option through digital channels too.
+- Opening and operating a BSBD account is subject to the normal KYC and anti-money-laundering rules.
+- Banks must publicise BSBD features and clearly explain how the account differs from other savings accounts.
+
+### Fraud liability for BSBD accounts
+Under RBI's rules on unauthorised electronic transactions, if a third-party breach in a BSBD account is reported within 4 to 7 working days, the customer's maximum liability is ₹5,000 (the lowest cap of any account type). If reported within 3 working days, the liability is zero.
