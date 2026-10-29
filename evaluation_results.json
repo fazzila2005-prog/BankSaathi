@@ -1,0 +1,72 @@
+{
+  "evaluation_id": "evaluation_01m64mecjct6vsyx",
+  "metrics": null,
+  "raw_responses_count": 0,
+  "method": "eval-compare",
+  "baseline_model_id": "meta-llama/Llama-3.2-3B-Instruct",
+  "model": {
+    "metrics": {
+      "binary_correctness_max": 1.0,
+      "binary_correctness_min": 0.0,
+      "binary_correctness_std": 0.21794494717703364,
+      "response_relevance_max": 1.0,
+      "response_relevance_min": 0.0,
+      "response_relevance_std": 0.215580611373101,
+      "binary_correctness_mean": 0.05,
+      "response_relevance_mean": 0.5050000000000001,
+      "binary_correctness_valid_count": 20,
+      "response_relevance_valid_count": 20
+    },
+    "model_id": "model_01m64mchcw0jz89d",
+    "generation_usage": {
+      "failed_items": 0,
+      "total_tokens": 5509,
+      "prompt_tokens": 1098,
+      "completion_tokens": 4411
+    },
+    "raw_answers_count": 20
+  },
+  "baseline": {
+    "metrics": {
+      "binary_correctness_max": 1.0,
+      "binary_correctness_min": 0.0,
+      "binary_correctness_std": 0.21794494717703364,
+      "response_relevance_max": 0.9,
+      "response_relevance_min": 0.0,
+      "response_relevance_std": 0.22000000000000003,
+      "binary_correctness_mean": 0.05,
+      "response_relevance_mean": 0.45999999999999996,
+      "binary_correctness_valid_count": 20,
+      "response_relevance_valid_count": 20
+    },
+    "model_id": "meta-llama/Llama-3.2-3B-Instruct",
+    "generation_usage": {
+      "failed_items": 0,
+      "total_tokens": 6612,
+      "prompt_tokens": 1098,
+      "completion_tokens": 5514
+    },
+    "raw_answers_count": 20
+  },
+  "comparison": {
+    "metrics": [
+      {
+        "base": 0.05,
+        "metric": "binary_correctness_mean",
+        "evaluated": 0.05,
+        "improvement_%": 0.0
+      },
+      {
+        "base": 0.46,
+        "metric": "response_relevance_mean",
+        "evaluated": 0.505,
+        "improvement_%": 9.78
+      }
+    ],
+    "summary": {
+      "avg_improvement": 4.89,
+      "max_improvement": 9.78,
+      "min_improvement": 0.0
+    }
+  }
+}

@@ -1,0 +1,458 @@
+﻿#,question,expected,base answer,base score,aligned answer,aligned score,aligned+RAG answer,aligned+RAG score
+1,Someone stole my card details and made an online purchase. I told my bank 2 working days after getting the SMS. How much do I have to pay?,"Nothing. Under RBI's July 2017 rules, if the fraud was a third-party breach (neither you nor the bank was at fault) and you report it within 3 working days of the bank's communication, your liability is zero.","I'm sorry to hear that your card details were compromised.
+
+According to the Reserve Bank of India's (RBI) guidelines, if you report the incident to your bank within 2 working days of receiving the SMS about the transaction, you are eligible for a ""Zero Liability"" policy.
+
+This means that you won't have to pay for the transaction.
+
+However, if you report the incident after 2 working days, you may be liable for the transaction amount, but you can still dispute the charge with your bank and they may investigate and potentially refund the amount.
+
+Please note that the ""Zero Liability"" policy is applicable if you report the incident within 2 working days of receiving the SMS.",1.0,"BankSaathi here.
+
+According to the Reserve Bank of India's (RBI) guidelines, if you report a card transaction to your bank within 2 working days of receiving the transaction alert, you are eligible for a chargeback.
+
+As per RBI's guidelines, the bank is required to cancel the transaction and refund the amount within 5 working days from the date of receiving the complaint.
+
+However, if you report the issue within 2 working days, the bank is required to refund the amount to you within 3 working days from the date of receiving the complaint.
+
+So, in your case, since you reported the issue within 2 working days, the bank should refund the amount within 3 working days.",0.0,"Based on the RBI rules, since you reported the transaction within 3 working days of receiving the bank's communication about the transaction, you are eligible for zero liability.
+
+According to RBI Rule #Customer Liability in Unauthorised Electronic Banking Transactions, if the bank itself was at fault, the customer bears no loss, whether or not the customer has reported the transaction.
+
+Since the bank itself was at fault (the customer's card details were stolen), you do not have to pay any amount.",1.0
+2,What is my maximum liability if I report a third-party fraud on my regular savings account after 5 working days?,"Your liability is the transaction value or ₹10,000, whichever is lower, because it was reported within 4 to 7 working days and the account is an ordinary savings account.","According to the Reserve Bank of India (RBI) guidelines, if you report a third-party fraud on your regular savings account within 5 working days, your liability is limited to ₹50,000.
+
+However, if you report the fraud after 5 working days, your liability increases to ₹2,50,000.
+
+Please note that these limits apply to the amount of money that was withdrawn or debited from your account due to the fraud.",0.0,"According to the Reserve Bank of India (RBI) rules, if you report a third-party fraud on your regular savings account within 5 working days, your maximum liability is ₹50,000.",0.0,"According to the RBI rules, if a third-party breach is reported within 4 to 7 working days, the customer's liability is the transaction value or the amount in the table below, whichever is lower.
+
+| Type of account | Maximum customer liability |
+|---|---|
+| Basic Savings Bank Deposit (BSBD) accounts | ₹5,000 |
+| All other savings bank accounts; pre-paid payment instruments and gift cards; current, cash credit and overdraft accounts of MSMEs; current, cash credit and overdraft accounts of individuals with annual average balance or limit up to ₹25 lakh; credit cards with limit up to ₹5 lakh | ₹10,000 |
+| All other current, cash credit and overdraft accounts; credit cards with limit above ₹5 lakh | ₹25,000 |
+
+Since you have a regular savings account, which falls under the second category, your maximum liability would be ₹10,000.",1.0
+3,What is the maximum liability for a BSBD account holder who reports a third-party fraud within 4 to 7 working days?,"₹5,000, or the transaction value if that is lower.","According to the Reserve Bank of India (RBI) guidelines, for a BSBD (Basic Savings Bank Deposit) account holder, the maximum liability for reporting a third-party fraud within 4 to 7 working days is ₹50,000.",0.0,"According to the Reserve Bank of India (RBI) guidelines, the maximum liability for a Banker's Special Deposit (BSBD) account holder who reports a third-party fraud within 4 to 7 working days is ₹50,000.",0.0,"According to the RBI rules, for a Basic Savings Bank Deposit (BSBD) account holder, the maximum customer liability for a third-party fraud reported within 4 to 7 working days is ₹5,000.",1.0
+4,I shared my OTP with a caller pretending to be from the bank and lost money. Who bears the loss?,"Sharing an OTP counts as customer negligence, so you bear the full loss until you report the unauthorised transaction to the bank. Any loss after you report it is borne by the bank. The bank may still choose to waive your liability.","I'm so sorry to hear that you've fallen victim to a scam.
+
+According to the Reserve Bank of India (RBI) guidelines, if you've lost money due to a scam or unauthorized transaction, you are not liable for the loss.
+
+As per RBI's guidelines, the bank where the account was held is responsible for reimbursing the customer for any loss incurred due to:
+
+1. Unauthorized transactions (Section 18 of the Banking Service Charge (Dissatisfaction) Regulations, 2012)
+2. Any loss or damage caused by the bank's negligence or default (Section 35 of the Banking Service Charge (Dissatisfaction) Regulations, 2012)
+
+To claim a refund, you should:
+
+1. Inform the bank immediately and provide all necessary details, including the transaction history and proof of loss.
+2. The bank will investigate the matter and reimburse the customer for the loss, if found to be their liability.
+
+So, in your case, the bank where your account was held should bear the loss.",0.0,"Don't worry, BankSaathi is here to help.
+
+According to the Reserve Bank of India (RBI) guidelines, if you share your One-Time Password (OTP) with an imposter, you are not liable for the loss. 
+
+As per RBI's guidelines, the bank is responsible for the loss incurred due to unauthorized transactions. 
+
+(RBI Circular No. 2020-2021/2020-21, dated 29.04.2021, Section 2.3.4, ""Liability of the Bank for Unauthorized Transactions"")",0.0,"According to RBI Rule #Customer Liability in Unauthorised Electronic Banking Transactions, if the loss happened because of the customer's own negligence, for example sharing payment credentials such as a PIN, password or OTP, the customer bears the entire loss until the moment the unauthorised transaction is reported to the bank.
+
+Since you shared your OTP with a caller pretending to be from the bank, you are considered to be at fault. Therefore, you bear the entire loss.",1.0
+5,Within how many days must a bank credit the disputed amount after I report an unauthorised electronic transaction?,"Within 10 working days of your notification, as a shadow reversal value-dated to the date of the unauthorised transaction, without waiting for any insurance claim.","As per the Reserve Bank of India (RBI) guidelines, a bank must credit the disputed amount within 3 working days after receiving a complaint from the customer regarding an unauthorized electronic transaction.",0.0,"Within 3 working days, a bank must credit the disputed amount after you report an unauthorised electronic transaction.",0.0,"According to RBI Rule #Customer Liability in Unauthorised Electronic Banking Transactions, a bank must credit the disputed amount within **10 working days** after the customer reports the unauthorised transaction.",1.0
+6,Who has to prove that a customer is liable in an unauthorised electronic transaction?,The bank. The burden of proving customer liability lies on the bank.,"According to the Reserve Bank of India (RBI) guidelines, in case of an unauthorized electronic transaction, the customer is liable for the transaction amount. 
+
+The customer is required to prove that they did not authorize the transaction.",1.0,"According to the Reserve Bank of India (RBI) rules, the customer is liable for an unauthorised electronic transaction. The customer is required to prove that they are not liable in the transaction.
+
+The customer is not liable if they can prove that:
+
+1. The transaction was done without their knowledge or consent.
+2. The transaction was done without their authorisation.
+3. The customer had reported the transaction to the bank within 1 day of the transaction.
+4. The customer had not received the transaction notification from the bank within 1 day of the transaction.
+
+The customer must also provide proof that they have taken reasonable care to prevent the transaction from being done without their knowledge or consent.",1.0,"According to RBI Rule #Customer Liability in Unauthorised Electronic Banking Transactions, the bank must prove that the customer is liable in an unauthorised electronic transaction. (Rule #Burden of proof)
+
+The bank bears the burden of proving that the customer is liable for the unauthorised transaction.",1.0
+7,Money was debited at an ATM but no cash came out. When should I get it back and what if the bank is late?,"The bank must auto-reverse it within T + 5 days (T is the transaction day). For every day of delay beyond that, the bank must pay you ₹100 automatically, without you needing to complain.","Don't worry, I'm here to help you understand your rights.
+
+According to the Reserve Bank of India (RBI) guidelines, if you have debited money from your account at an ATM but no cash comes out, you have the following options:
+
+1. **Immediate Refund**: You can get a refund of the amount debited from your account immediately. You can do this by:
+	* Visiting the ATM again and selecting the 'Refund' option.
+	* Contacting the bank's customer care number (as provided on the ATM or your bank's website).
+	* Visiting the bank's branch during business hours.
+2. **Refund within 1 working day**: If you are unable to get a refund immediately, you can expect to receive the refund within 1 working day.
+
+If the bank is late in providing the refund, you can:
+
+1. **Contact the bank's customer care**: Reach out to the bank's customer care number and explain the situation. They should provide a timeline for the refund.
+2. **File a complaint**: If the bank fails to provide the refund within the specified time, you can file a complaint with the bank's customer care or visit the bank's branch.
+3. **Complain to the RBI**: If the bank still fails to provide the refund, you can file a complaint with the RBI's Consumer Complaint Redressal Forum (CCRF) or the District Consumer Disputes Redressal Forum.
+
+Remember to keep",0.0,"If money is debited from your account at an ATM but no cash comes out, it's considered a ""Non-Cash Transaction"" or ""ATM Dispute"". 
+
+According to RBI guidelines, you should:
+
+1. Inform the bank within 3 working days from the date of transaction. 
+2. The bank will investigate the matter and may ask for any required documents.
+3. If the bank confirms that the transaction was unauthorized, they must refund the amount within 5 working days.
+
+If the bank is late in refunding the amount, you can:
+
+1. Contact the bank's customer care number or visit the bank's branch.
+2. File a complaint with the bank's customer care or the bank's Regional Manager.
+3. If the bank still fails to refund the amount within the specified time, you can approach the:
+   a. District Magistrate or the District Collector within 15 days of the transaction date.
+   b. State Bank of India's Ombudsman within 30 days of the transaction date.
+
+Please note that these time limits are as per the RBI's guidelines, and the bank must follow these procedures to resolve the issue.",0.5,"According to the RBI rules, if money is debited from your account at an ATM but no cash comes out, the bank must reverse the transaction within 5 working days from the transaction date. 
+
+If the bank is late, you are entitled to ₹100 per day of delay beyond the 5 working day deadline.",0.5
+8,My UPI transfer to a friend was debited but never credited. What is the turnaround time?,"The beneficiary bank must reverse the amount by T + 1 day if it cannot credit it, and pay ₹100 per day for any delay beyond T + 1.","I can help you with that.
+
+According to the Reserve Bank of India (RBI) guidelines, if a UPI transaction is debited but not credited, it's considered a ""Failed Transaction"".
+
+The RBI recommends that banks should resolve such issues within 2 working days. However, in practice, most banks usually resolve such issues within 1 working day.
+
+Here's a step-by-step process to resolve the issue:
+
+1. You should contact your bank's customer care number or visit the bank's branch where the transaction was initiated.
+2. Provide the transaction details, including the UPI ID, amount, and date of the transaction.
+3. The bank will verify the transaction and initiate an investigation.
+4. If the bank confirms that the transaction was debited but not credited, they will credit the amount back to your account within 1 working day.
+
+If you're not satisfied with the bank's response, you can also file a complaint with the RBI's Consumer Complaint Redressal System (CCRS) or the District Consumer Disputes Redressal Forum.
+
+Remember to keep a record of all your correspondence with the bank, including dates, times, and reference numbers.",0.0,"Hello. 
+
+According to the Reserve Bank of India (RBI) guidelines, if a UPI transaction is debited but not credited within 2 working days, the customer should contact the bank. 
+
+Here's the RBI's UPI complaint redressal mechanism:
+
+1. Within 2 working days: The bank should credit the amount back to the customer's account.
+2. If the bank fails to credit the amount within 2 working days, the customer can file a complaint with the bank.
+3. The bank should then investigate the matter and credit the amount within 5 working days.
+4. If the bank still fails to credit the amount, the customer can file a complaint with the RBI's Consumer Ombudsman.
+
+Please note that these timeframes are subject to change, and it's always best to check with your bank for the latest guidelines.",0.0,"According to RBI Rule #IMPS, for UPI fund transfer, the turnaround time (TAT) for reversal is within T + 1 day if the beneficiary bank cannot credit the amount. 
+
+So, if the transaction was on Monday (T), the bank must reverse the transaction by Tuesday (T + 1 day).",1.0
+9,Do I need to file a complaint to get compensation for a failed transaction?,"No. RBI requires the compensation to be credited automatically once the turnaround time is crossed. If it is not, you can complain under the RBI Integrated Ombudsman Scheme.","As per the Reserve Bank of India (RBI) guidelines, if your transaction is unsuccessful, you can file a complaint with the bank, but it's not mandatory to file a complaint to get compensation.
+
+However, if you're eligible for compensation, you can file a complaint with the bank and the RBI's Consumer Ombudsman Cell (COC) for assistance.
+
+Here are the steps to follow:
+
+1. **Check if you're eligible for compensation**: The RBI provides compensation for certain types of transactions, such as:
+	* Unauthorised transactions (UTs): If your account is debited without your consent.
+	* Unexplained transactions (UTs): If your account is debited without your knowledge or consent.
+	* Incorrect transactions (ITs): If your account is credited or debited in error.
+2. **File a complaint with the bank**: Inform your bank about the issue and provide them with the necessary details, such as:
+	* Transaction details (date, amount, and transaction ID)
+	* Your account number and branch details
+	* Any supporting documents (e.g., cancelled cheques, bank statements)
+3. **File a complaint with the RBI's Consumer Ombudsman Cell (COC)**: If you're not satisfied with the bank's response or if you're not eligible for compensation, you can file a complaint with the COC. The COC is a free service that can help resolve disputes between you and your bank.",1.0,"Hello. 
+
+To get compensation for a failed transaction, you should file a complaint with the bank within 3 working days from the date of the transaction. 
+
+According to the Reserve Bank of India's (RBI) guidelines, if your transaction is not processed within the specified time, you can file a complaint with the bank. The bank will then investigate the matter and provide compensation as per the RBI's guidelines.
+
+Here are the steps to follow:
+
+1. Within 3 working days from the date of the transaction, write to the bank's customer care number or visit the bank's branch to file a complaint.
+2. The bank will assign a complaint number and acknowledge receipt of your complaint.
+3. The bank will investigate the matter and provide compensation within 5 working days from the date of receiving the complaint.
+4. If the bank is unable to resolve the issue, you can escalate the complaint to the RBI's Consumer Ombudsman within 10 working days from the date of receiving the complaint.
+
+Please note that the compensation amount varies depending on the type of transaction and the bank's policies. The RBI's guidelines provide for compensation in the following cases:
+
+- For ATM transactions: ₹500
+- For cheque transactions: ₹500
+- For credit card transactions: ₹500
+- For debit card transactions: ₹500
+
+Please check with your bank for the exact compensation amount and the process for filing a complaint.",1.0,"No, you do not need to file a complaint to get compensation for a failed transaction. According to RBI Rule # Failed Transactions: Turnaround Time (TAT) and Automatic Compensation, the bank must credit the compensation to your account automatically as soon as the TAT is crossed. If you do not receive the reversal or compensation within the TAT, you can complain under the RBI Integrated Ombudsman Scheme, 2021, but it is not a requirement to file a complaint to get compensation.",1.0
+10,Can I complain directly to the RBI Ombudsman without contacting my bank?,"No. You must first make a written complaint to your bank. You can go to the Ombudsman if the bank does not reply within 30 days, or rejects the complaint, or you are not satisfied with its reply.","No, you cannot complain directly to the RBI Ombudsman without contacting your bank. 
+
+According to RBI's guidelines, you can file a complaint to the RBI Ombudsman only after you have exhausted all other avenues of redressal within your bank. 
+
+Here are the steps you can follow:
+
+1. First, you should try to resolve the issue with your bank's customer service or grievance redressal officer.
+2. If the issue is not resolved, you can approach the bank's higher authorities, such as the Zonal Manager or the General Manager.
+3. If the issue is still not resolved, you can file a complaint with the RBI Ombudsman.
+
+The RBI Ombudsman is an independent entity that can investigate complaints against banks and provide relief to customers. However, you must first have tried all other avenues of redressal within your bank before approaching the RBI Ombudsman.
+
+According to RBI's guidelines, a customer can file a complaint to the RBI Ombudsman only after they have:
+
+* Exhausted all internal complaints redressal mechanisms within the bank
+* Given the bank an opportunity to respond to the complaint
+* Paid any fees or charges associated with the complaint
+
+So, it's essential to follow these steps before approaching the RBI Ombudsman.",0.5,"No, you cannot complain directly to the RBI Ombudsman without contacting your bank. 
+
+According to RBI's rules, if you have a complaint against your bank, you should first contact your bank's customer service or grievance redressal officer. They will guide you through the process and help resolve the issue. 
+
+If the bank is unable to resolve the issue, you can then approach the RBI Ombudsman. The RBI Ombudsman is an independent body that investigates complaints against banks and other financial institutions. 
+
+To file a complaint with the RBI Ombudsman, you will need to follow these steps:
+
+1. Contact your bank's customer service or grievance redressal officer.
+2. If the bank is unable to resolve the issue, ask for a complaint form from the bank.
+3. Fill the complaint form and submit it to the bank.
+4. The bank will forward the complaint to the RBI Ombudsman.
+5. The RBI Ombudsman will investigate the complaint and take necessary action.
+
+Please note that the RBI Ombudsman's office is located at:
+
+RBI Ombudsman
+RBI Building, 5th Floor
+Dr. Ambedkar Road
+Annexe Building
+Bangalore - 560001
+
+Phone: 080-222 1000
+Fax: 080-222 1001
+Email: [ombudsman@rbi.org.in](mailto:ombudsman@rbi.org",0.5,"No, you cannot complain directly to the RBI Ombudsman without contacting your bank first. 
+
+According to the RBI Ombudsman Scheme, 2021, you must first make a written complaint to the bank (or the bank's customer service department) about the issue. The bank must then respond to your complaint within 30 days. If the bank does not reply or if you are not satisfied with the bank's response, you can then file a complaint with the RBI Ombudsman.",1.0
+11,How do I file a complaint with the RBI Ombudsman?,"Online at https://cms.rbi.org.in, by email to crpc@rbi.org.in, or by post to the Centralised Receipt and Processing Centre, Reserve Bank of India, 4th Floor, Sector 17, Chandigarh – 160017. You can also call the toll-free number 14448 for help.","As a BankSaathi, I'd be happy to guide you through the process.
+
+The RBI Ombudsman is an independent body that resolves complaints against banks and other financial institutions. Here's a step-by-step guide to file a complaint with the RBI Ombudsman:
+
+**Eligibility:** You must be a customer of a bank that is regulated by the Reserve Bank of India (RBI).
+
+**Complaint Types:** You can file a complaint with the RBI Ombudsman for the following reasons:
+
+1. Unsatisfactory service
+2. Delay in settlement of accounts
+3. Unfair treatment
+4. Non-compliance with RBI guidelines
+5. Any other grievance related to banking services
+
+**How to File a Complaint:**
+
+1. **Online Complaint:** You can file a complaint online through the RBI Ombudsman website: [www.rbo.gov.in](http://www.rbo.gov.in). Click on ""Complaints"" and follow the online application process.
+2. **Offline Complaint:** You can also file a complaint in person at the RBI Ombudsman office or through a bank branch. The address and contact details are as follows:
+	* RBI Ombudsman, 3rd Floor, North Block, Central Office, RBI, Mumbai - 400001
+	Phone: 2261 22761
+	Email: [ombudsman@rbi.org.in](mailto:ombudsman@rbi.org.in",0.0,"Hello. BankSaathi here to help. 
+
+To file a complaint with the RBI Ombudsman, follow these steps:
+
+1. **Check if your bank has an in-house complaint redressal mechanism**: Before approaching the RBI Ombudsman, check if your bank has an internal complaint redressal system. If it does, use that first to resolve your issue.
+
+2. **Prepare your complaint**: Gather all relevant documents and information related to your complaint. This may include:
+   - Bank account details
+   - Transaction records
+   - Correspondence with the bank
+   - Any relevant receipts or invoices
+
+3. **Submit your complaint to the bank**: Take your documents to the bank's customer service desk or submit them through the bank's online platform, if available.
+
+4. **If not resolved, approach the RBI Ombudsman**: If the bank is unable to resolve your complaint within 30 days, you can approach the RBI Ombudsman. You can submit your complaint through the RBI's online portal (https://ombudsman.rbi.org.in/) or by sending it to:
+   - RBI Ombudsman, RBI, Central Office, 3rd Floor, Annexe Building, Central Office, Mumbai - 400001
+
+5. **Fill the complaint form**: Fill the RBI Ombudsman complaint form, which can be downloaded from the RBI's website or obtained from the bank. The form should be signed and submitted along with the",0.0,"To file a complaint with the RBI Ombudsman, you can follow these steps:
+
+1. **Online**: Visit the RBI Complaint Management System portal at https://cms.rbi.org.in.
+2. **Email**: Send an email to crpc@rbi.org.in.
+3. **Post**: Send a complaint to the Centralised Receipt and Processing Centre (CRPC), Reserve Bank of India, 4th Floor, Sector 17, Chandigarh – 160017.
+4. **Phone**: Call the RBI contact centre on toll-free number 14448 (9:30 am to 5:15 pm) for information and to file a complaint.
+
+Please note that you must have the following details ready:
+
+* Transaction reference number (UTR / RRN)
+* Date and time of the transaction
+* Bank name and branch details
+* Description of the issue
+* Your bank account number and IFSC code
+
+The RBI Ombudsman will then process your complaint and try to resolve it through facilitation, conciliation, or mediation. If the bank fails to reply within 15 days, the Ombudsman may pass an award.",1.0
+12,My bank never replied to my complaint. How long do I have to approach the Ombudsman?,Within one year and 30 days from the date you made the complaint to the bank.,"As per the Reserve Bank of India (RBI) guidelines, if you haven't received a response from your bank within 30 days of submitting your complaint to the bank, you can approach the Ombudsman.
+
+The RBI has designated the following entities as Ombudsmen for banking ombudsman services:
+
+1. Banking Ombudsman for Private Sector Banks: The Banking Ombudsman for Private Sector Banks is the National Consumer Dispute Redressal Commission (NCDRC).
+2. Banking Ombudsman for Public Sector Banks: The Banking Ombudsman for Public Sector Banks is the State Consumer Disputes Redressal Commission (SCDRC) in the state where the bank's head office is located.
+
+You can approach the Ombudsman within 30 days from the date of submission of your complaint to the bank.",0.0,"As per the Reserve Bank of India (Banking Ombudsman Scheme) Regulations, 1997, you can approach the Banking Ombudsman within 3 months from the date of receipt of the complaint.",0.0,"According to the RBI Rules, if the bank has not replied within 30 days of receiving your complaint, you can approach the RBI Ombudsman. 
+
+**Time limit for approaching the Ombudsman:**
+
+- If the bank did not reply, the complaint must be filed within **one year and 30 days** from the date of the original complaint to the bank.",1.0
+13,How much compensation can the RBI Ombudsman award?,"There is no limit on the disputed amount. In addition, the Ombudsman can award up to ₹20 lakh for consequential loss and up to ₹1 lakh for loss of time, expenses, harassment or mental anguish.","As per the RBI Ombudsman Scheme, the maximum compensation that the RBI Ombudsman can award is ₹20 lakhs.",0.5,The RBI Ombudsman can award compensation up to ₹20 lakhs.,0.5,"According to the RBI Rules, the RBI Ombudsman can award compensation of up to ₹20 lakh for consequential loss, and up to ₹1 lakh for loss of the complainant's time, expenses incurred, harassment, or mental anguish.",1.0
+14,I'm unhappy with the Ombudsman's decision. Can I appeal?,Yes. You can appeal to the Appellate Authority (the Executive Director in charge of the RBI department administering the scheme) within 30 days of receiving the award or rejection. A further 30 days may be allowed for sufficient cause.,"As a customer, you have the right to appeal against the Ombudsman's decision. 
+
+According to the Reserve Bank of India's (RBI) guidelines, you can appeal against the Ombudsman's decision within 30 days from the date of the Ombudsman's decision.
+
+Here are the steps to follow:
+
+1. You can appeal to the RBI's Consumer Redressal Forum (CRF) within 30 days from the date of the Ombudsman's decision.
+2. You can submit your appeal in writing to the RBI's CRF, along with all relevant documents and evidence.
+3. The CRF will review your appeal and may either uphold the Ombudsman's decision or pass a new order.
+
+Please note that the RBI has a Consumer Redressal Forum in various cities across the country. You can find the contact details of the nearest CRF in your area on the RBI's website.
+
+Additionally, you can also approach the District Consumer Disputes Redressal Forum (DCDRF) or the State Consumer Disputes Redressal Commission (SCDRC) if you are not satisfied with the CRF's decision.
+
+It's always a good idea to seek advice from a lawyer or a consumer advocacy group before filing an appeal.",0.5,"As a BankSaathi, I can guide you through the process.
+
+If you're not satisfied with the Ombudsman's decision, you can appeal to the bank. The Reserve Bank of India (RBI) has a specific process for such cases.
+
+Here are the steps to follow:
+
+1. **Internal Appeal**: First, you can appeal to the bank within 30 days from the date of the Ombudsman's decision. You should submit your appeal to the bank's Head Office, the Branch Manager, or the Regional Manager, whichever is nearest to you.
+
+2. **Second Appeal**: If the bank's internal appeal is not satisfactory, you can appeal to the RBI within 30 days from the date of the bank's decision. You can submit your appeal to the RBI's Customer Service Division, which is located at:
+
+Customer Service Division,
+RBI, Central Office,
+Rangapur Road,
+Bangalore - 560 001.
+
+3. **Third Appeal**: If the RBI's second appeal is also not satisfactory, you can appeal to the RBI's Consumer Ombudsman within 30 days from the date of the RBI's decision. The RBI's Consumer Ombudsman is located at:
+
+Consumer Ombudsman,
+RBI, Central Office,
+Rangapur Road,
+Bangalore - 560 001.
+
+Please note that the RBI's Consumer Ombudsman can only hear appeals related to banking services, not other banking products.
+
+**Important**: You",0.5,"No, you cannot appeal to the RBI Ombudsman. According to the RBI Rules, the Ombudsman's decision is final.",0.0
+15,Will the Ombudsman take up a complaint about my bank's decision to reject my loan application?,Generally no. Complaints about a bank's commercial judgment or commercial decision are not maintainable under the Integrated Ombudsman Scheme.,"Hello there! I'm BankSaathi.
+
+According to the Reserve Bank of India (RBI) guidelines, the Ombudsman can take up a complaint about a bank's decision to reject a loan application, but only under certain conditions.
+
+As per the RBI's guidelines, the Ombudsman can investigate complaints related to the following:
+
+* Misrepresentation made by the bank or its employees
+* Non-compliance with the Reserve Bank of India Act, 1934
+* Non-compliance with the Banking Ombudsman (Banking Ombudsman) Act, 1997
+* Non-compliance with the Consumer Protection Act, 1986
+
+However, the Ombudsman cannot take up complaints that are related to:
+
+* Disputes between the bank and the customer regarding the terms and conditions of the loan agreement
+* Disputes regarding the interest rates or other terms of the loan
+* Disputes regarding the creditworthiness of the borrower
+
+To file a complaint with the Ombudsman, you need to follow these steps:
+
+1. The complaint should be filed within 3 years from the date of the incident or 2 years from the date of the last payment made by the bank.
+2. The complaint should be filed in writing and should be supported by relevant documents.
+3. The complaint should be filed with the Banking Ombudsman, who is appointed by the Reserve Bank of India.
+
+The Ombudsman's decision is",0.5,"Hello. BankSaathi here to help.
+
+According to the Reserve Bank of India (RBI) guidelines, the Ombudsman can take up a complaint about a bank's decision to reject a loan application, but only if the bank has not resolved the issue through internal channels.
+
+Here are the specific RBI guidelines:
+
+1. **Internal Remedy**: The bank must first resolve the issue through its internal channels, including the customer's complaint to the bank's customer service, branch manager, and other relevant departments.
+2. **Bank's Response**: The bank must respond to the customer's complaint within 30 days.
+3. **Customer's Right to Appeal**: If the customer is not satisfied with the bank's response, they can appeal to the Ombudsman within 90 days from the date of the bank's response.
+4. **Ombudsman's Jurisdiction**: The Ombudsman can take up the complaint if the bank has not resolved the issue within the specified time frame or if the customer is not satisfied with the bank's response.
+
+So, to summarize:
+
+* Bank must resolve the issue through internal channels within 30 days.
+* Bank must respond to customer's complaint within 30 days.
+* Customer can appeal to Ombudsman within 90 days from bank's response.
+* Ombudsman can take up complaint if bank does not resolve issue within 30 days or customer is not satisfied with bank's response.
+
+Please note that these guidelines may be",0.5,"No, the RBI Ombudsman will not take up a complaint about a bank's decision to reject a loan application.",0.5
+16,How often must a low-risk customer update KYC?,At least once every 10 years. Medium-risk customers update every 8 years and high-risk customers every 2 years.,"According to the Reserve Bank of India (RBI) guidelines, a low-risk customer is required to update their Know Your Customer (KYC) documents every 5 years.",0.0,"As per the Reserve Bank of India (RBI) guidelines, a low-risk customer is required to update their Know Your Customer (KYC) documents every 5 years.",0.0,"According to the RBI rules, a low-risk customer must update their KYC at least once every 10 years.",1.0
+17,Nothing in my KYC details has changed. Do I need to visit the branch for re-KYC?,"No. A self-declaration that nothing has changed is enough, and you can submit it through your registered email or mobile, an ATM, internet or mobile banking, or a letter.","As per RBI guidelines, if your Know Your Customer (KYC) details are up-to-date and there are no changes, you do not need to visit the branch for re-KYC.
+
+However, if you have made any changes to your KYC documents, such as your address, date of birth, or identification proof, you will need to update your KYC documents with your bank.
+
+Here are the specific RBI guidelines:
+
+* If your KYC documents are up-to-date and there are no changes, you can continue to use your existing KYC documents.
+* If you have made any changes to your KYC documents, you need to update your KYC documents with your bank within 30 days of the change.
+* If you fail to update your KYC documents within 30 days, your account may be frozen or closed.
+
+It's always best to check with your bank to confirm their specific KYC update policies and procedures.",0.5,"Hello. 
+
+According to the Reserve Bank of India's guidelines, if your Know Your Customer (KYC) details are up-to-date, you don't need to visit the branch for re-KYC. 
+
+As per RBI's guidelines, KYC is valid for 5 years from the date of KYC completion. If your KYC is up-to-date, you can continue to bank with us without any issues.",0.5,"No, you do not need to visit the branch for re-KYC if nothing in your KYC details has changed. According to RBI Rule, if there is no change in a customer's KYC information, a self-declaration to that effect is enough. You can give this self-declaration through the customer's registered email, registered mobile number, ATM, digital channels such as internet or mobile banking, a letter, or at the branch.",1.0
+18,Is there a minimum balance in a BSBD account and how many free withdrawals do I get?,"There is no minimum balance. You get at least four free withdrawals a month, and digital payments such as UPI, NEFT, RTGS, IMPS and PoS transactions do not count towards that limit.","Hello there! I'm BankSaathi, here to help you with your queries.
+
+Regarding your question, a Basic Savings Bank Deposit (BSBD) account is a type of savings account offered by the Reserve Bank of India (RBI) to the unorganized sector, including small businesses and individuals with low incomes.
+
+Here are the details:
+
+**Minimum Balance:**
+There is no minimum balance requirement for a BSBD account. You can open and maintain a zero balance account.
+
+**Free Withdrawals:**
+You can make a maximum of 3 free withdrawals per month from your BSBD account. These free withdrawals can be made at any bank branch of the bank where your account is held.
+
+However, if you exceed the 3 free withdrawals, you will be charged a fee of ₹ 25 per transaction.
+
+Additionally, you can also make withdrawals at ATMs using your BSBD account, but you will be charged a fee of ₹ 20 per transaction.
+
+Please note that these rules may be subject to change, so it's always best to check with your bank for the latest information.
+
+I hope this helps! If you have any more questions, feel free to ask.",0.5,"Hello. 
+
+For a Basic Savings Bank Deposit (BSBD) account, the minimum balance requirement is ₹1,000. 
+
+As for the free withdrawals, under the BSBD scheme, you can make up to 5 free withdrawals per month.",0.0,"According to RBI rules, there is **no minimum balance requirement** for a Basic Savings Bank Deposit (BSBD) account.
+
+As for the number of free withdrawals, you get at least **4 free withdrawals a month**, including ATM withdrawals and transfers.",1.0
+19,Can I have BSBD accounts in two different banks?,"No. A customer can hold only one BSBD account across all banks, and the bank takes a declaration that you have no other BSBD account before opening one.","As per the Reserve Bank of India (RBI) guidelines, you can have a Basic Savings Bank Deposit (BSBD) account in two different banks, but there are some conditions:
+
+1. **Multiple accounts are allowed**: You can have multiple BSBD accounts in different banks, but each account must be in your own name.
+2. **No joint accounts**: You cannot have a joint BSBD account with someone else.
+3. **No overdraft facility**: You cannot have an overdraft facility on your BSBD account.
+4. **No loan facility**: You cannot take a loan against your BSBD account.
+5. **No cheques**: You cannot draw cheques on your BSBD account.
+6. **No ATM card facility**: You cannot have an ATM card on your BSBD account.
+7. **Minimum balance requirement**: You must maintain a minimum balance in each account to avoid closure.
+
+However, you can have a combination of BSBD accounts with different features, such as:
+
+* One BSBD account for basic banking needs (e.g., deposits, withdrawals, and cheque payments)
+* Another BSBD account for online banking and mobile banking services
+* A third BSBD account for specific purposes, such as a tax-saving account or a retirement account
+
+It's always a good idea to check with your bank for their specific rules and regulations regarding multiple BSBD accounts.",1.0,"No, as per the Reserve Bank of India (RBI) guidelines, a customer is not allowed to have a Basic Savings Bank Deposit (BSBD) account in two different banks simultaneously. 
+
+According to RBI, a customer can have only one Basic Savings Bank Deposit (BSBD) account in a bank. If you want to open a new BSBD account, you can close the existing one.",1.0,"No, you can hold only one Basic Savings Bank Deposit (BSBD) account across all banks. Before opening a BSBD account, the bank must take a declaration from the customer that they do not hold any other BSBD account. (RBI Rule: A customer can hold only one BSBD account across all banks.)",1.0
+20,What are the five rights in RBI's Charter of Customer Rights?,"Right to Fair Treatment; Right to Transparency, Fair and Honest Dealing; Right to Suitability; Right to Privacy; and Right to Grievance Redress and Compensation.","The Reserve Bank of India (RBI) has a Charter of Customer Rights, which outlines the rights of bank customers. The five rights are:
+
+1. **Right to Know**: You have the right to know about the bank's products and services, their features, and the terms and conditions associated with them.
+
+2. **Right to Choose**: You have the right to choose from a variety of bank products and services that suit your needs.
+
+3. **Right to Fair Treatment**: You have the right to be treated fairly and without any discrimination by the bank.
+
+4. **Right to Complaint Redressal**: You have the right to seek redressal of any grievances or complaints you may have regarding the bank's services.
+
+5. **Right to Information**: You have the right to information about your account, transactions, and any other relevant information related to your banking services.
+
+These rights are as per the RBI's Charter of Customer Rights, which aims to protect the interests of bank customers and ensure that they receive fair treatment and timely resolution of their grievances.",0.4,"As per the Reserve Bank of India's Charter of Customer Rights, a bank customer has the following five rights:
+
+1. **Right to Know**: The customer has the right to know about the bank's products and services, their features, and the terms and conditions of the account.
+
+2. **Right to Choose**: The customer has the right to choose the bank's products and services that suit their needs.
+
+3. **Right to Access**: The customer has the right to access their account information and transaction records at any time.
+
+4. **Right to Protection**: The customer has the right to be protected from fraud, theft, and any other form of misappropriation of their account.
+
+5. **Right to Compensation**: The customer has the right to compensation in case of any loss or damage to their account due to the bank's negligence or any other reason.",0.0,"According to RBI's Charter of Customer Rights, the five rights of bank customers are:
+
+1. **Right to Fair Treatment**: Both the customer and the bank have a right to be treated with courtesy, and the bank should not unfairly discriminate against the customer on grounds such as gender, age, religion, caste or physical ability.
+
+2. **Right to Transparency, Fair and Honest Dealing**: The bank should make every effort to ensure that the contracts or agreements it frames are transparent, easily understood by and well communicated to the common person. The product's price, the associated risks, the terms and conditions that govern its use over its life cycle, and the responsibilities of the customer and the bank should be clearly disclosed. The customer should not be subject to unfair business or marketing practices, coercive contractual terms or misleading representations.
+
+3. **Right to Suitability**: The products offered should be appropriate to the needs of the customer and based on an assessment of the customer's financial circumstances and understanding.
+
+4. **Right to Privacy**: Customers' personal information should be kept confidential unless they have offered specific consent to the bank or the information is required to be provided under the law. Customers have the right to protection from all kinds of communications, electronic or otherwise, which infringe upon their privacy.
+
+5. **Right to Grievance Redress and Compensation**: The customer has a right to hold the bank accountable for the products offered and to have a clear and easy way to have valid grievances redressed. The",1.0

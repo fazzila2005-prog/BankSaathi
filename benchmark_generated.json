@@ -1,0 +1,102 @@
+[
+  {
+    "sample_num": 1,
+    "instruction": "Under the RBI framework described, in what two specific situations does a customer have zero liability for an unauthorised electronic banking transaction?",
+    "response": "A customer has zero liability in (1) contributory fraud, negligence, or deficiency on the part of the bank (customer bears no loss whether or not the customer has reported the transaction), and (2) a third-party breach reported within 3 working days of receiving the bank's communication about the transaction (customer bears no loss)."
+  },
+  {
+    "sample_num": 2,
+    "instruction": "If a third-party breach is reported within four to seven working days of receiving the bank's communication, what is the customer's liability rule and how does it depend on the type of account?",
+    "response": "The customer's liability is the transaction value or the amount in the table below, whichever is lower: BSBD accounts—₹5,000; all other savings bank accounts; pre-paid payment instruments and gift cards; current/cash credit/overdraft accounts of MSMEs; current/cash credit/overdraft accounts of individuals with annual average balance or limit up to ₹25 lakh; credit cards with limit up to ₹5 lakh—₹10,000; all other current/cash credit/overdraft accounts; credit cards with limit above ₹5 lakh—₹25,000."
+  },
+  {
+    "sample_num": 3,
+    "instruction": "What happens to the customer's liability when a third-party breach is reported more than seven working days after the bank's communication, according to the text?",
+    "response": "If a third-party breach is reported more than seven working days after the bank's communication, the customer's liability is decided according to the bank's own Board-approved customer protection policy."
+  },
+  {
+    "sample_num": 4,
+    "instruction": "According to the text, if the loss occurs due to the customer's negligence (for example sharing payment credentials such as a PIN, password, or OTP), who bears the loss before and after the customer reports the unauthorised transaction?",
+    "response": "The customer bears the entire loss until the moment the unauthorised transaction is reported to the bank; any loss that occurs after the customer has reported it is borne by the bank."
+  },
+  {
+    "sample_num": 5,
+    "instruction": "What date does the Reserve Bank of India’s Integrated Ombudsman Scheme, 2021 (RB-IOS) become effective?",
+    "response": "It is effective 12 November 2021."
+  },
+  {
+    "sample_num": 6,
+    "instruction": "Under the scheme, what is the maximum time the bank has to file its written reply and documents after receiving the complaint from the Ombudsman?",
+    "response": "Within 15 days of receiving the complaint from the Ombudsman."
+  },
+  {
+    "sample_num": 7,
+    "instruction": "If a bank does not reply within 30 days of receiving a customer’s complaint, within what time period must the customer file the complaint with the RBI Ombudsman?",
+    "response": "Within one year and 30 days from the date of the original complaint to the bank."
+  },
+  {
+    "sample_num": 8,
+    "instruction": "What are the two maximum compensation amounts the Ombudsman can award for (1) consequential loss and (2) loss of the complainant’s time, expenses incurred, harassment or mental anguish?",
+    "response": "Up to ₹20 lakh for consequential loss, and up to ₹1 lakh for loss of time, expenses incurred, harassment or mental anguish."
+  },
+  {
+    "sample_num": 9,
+    "instruction": "What are the names and dates of the RBI circular referenced in the text, including its effective date and title?",
+    "response": "RBI circular RBI/2019-20/67, DPSS.CO.PD No.629/02.01.014/2019-20, dated 20 September 2019, effective 15 October 2019, titled \"Harmonisation of Turn Around Time (TAT) and customer compensation for failed transactions using authorised Payment Systems\"."
+  },
+  {
+    "sample_num": 10,
+    "instruction": "In the text’s key definitions, what do T and R represent for a failed transaction?",
+    "response": "T is the day of the transaction, and R is the day on which the reversal is concluded and the funds are received by the issuer or originator."
+  },
+  {
+    "sample_num": 11,
+    "instruction": "According to the table, for an ATM (including micro-ATM) where the account is debited but cash is not dispensed, what is the deadline for auto-reversal and what compensation applies if the deadline is missed?",
+    "response": "Auto-reversal within T + 5 days; compensation is ₹100 per day of delay beyond T + 5, to the account holder."
+  },
+  {
+    "sample_num": 12,
+    "instruction": "According to the table, for a UPI fund transfer where the account is debited but the beneficiary account is not credited, what is the reversal deadline and the compensation if the deadline is missed?",
+    "response": "The beneficiary bank must reverse by T + 1 day if it cannot credit; compensation is ₹100 per day of delay beyond T + 1."
+  },
+  {
+    "sample_num": 13,
+    "instruction": "According to the text, what is KYC and what is it used for when opening an account?",
+    "response": "KYC is the process banks use to verify a customer's identity and address; it is required under anti-money-laundering rules when opening an account."
+  },
+  {
+    "sample_num": 14,
+    "instruction": "Which documents are explicitly listed in the text as officially valid documents (OVDs) for proof of identity and address?",
+    "response": "The text lists a passport, driving licence, voter's identity card, proof of possession of Aadhaar number, and the job card issued by NREGA (signed by a State Government officer)."
+  },
+  {
+    "sample_num": 15,
+    "instruction": "What are the periodic KYC updation intervals specified in the text for high-risk, medium-risk, and low-risk customers?",
+    "response": "High-risk customers: at least once every 2 years; Medium-risk customers: at least once every 8 years; Low-risk customers: at least once every 10 years."
+  },
+  {
+    "sample_num": 16,
+    "instruction": "Under the updated BSBD rules effective 1 April 2026, what is the minimum number of cheque book leaves per year that must be provided?",
+    "response": "A cheque book with at least 25 leaves a year."
+  },
+  {
+    "sample_num": 17,
+    "instruction": "According to the text, what date and source are given for the RBI press release that released the Charter of Customer Rights?",
+    "response": "3 December 2014, from a Reserve Bank of India press release titled \"RBI releases Charter of Customer Rights\"."
+  },
+  {
+    "sample_num": 18,
+    "instruction": "Which three categories of banks does the RBI ask to frame a Board-approved customer rights policy based on the five rights?",
+    "response": "Scheduled commercial banks, regional rural banks, and urban co-operative banks."
+  },
+  {
+    "sample_num": 19,
+    "instruction": "In the text, what specific grounds does the Right to Fair Treatment say a customer should not be unfairly discriminated against when the bank offers and delivers financial products?",
+    "response": "Gender, age, religion, caste, or physical ability."
+  },
+  {
+    "sample_num": 20,
+    "instruction": "What does the Right to Transparency, Fair and Honest Dealing require the bank to clearly disclose to the common person?",
+    "response": "The product's price, the associated risks, the terms and conditions governing its use over its life cycle, and the responsibilities of the customer and the bank."
+  }
+]
